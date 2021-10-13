@@ -2,40 +2,40 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="5677" started-at="2021-10-13T09:31:41Z" finished-at="2021-10-13T09:31:46Z">
+  <suite name="Suite" duration-ms="6012" started-at="2021-10-13T09:50:23Z" finished-at="2021-10-13T09:50:29Z">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="35" started-at="2021-10-13T09:31:41Z" finished-at="2021-10-13T09:31:41Z">
+    <test name="Test1" duration-ms="41" started-at="2021-10-13T09:50:23Z" finished-at="2021-10-13T09:50:23Z">
       <class name="loginTests.AppTest">
-        <test-method status="PASS" signature="invalidLoginTest()[pri:0, instance:loginTests.AppTest@4206a205]" name="invalidLoginTest" duration-ms="10" started-at="2021-10-13T09:31:41Z" description="Invalid Test" finished-at="2021-10-13T09:31:41Z">
+        <test-method status="PASS" signature="invalidLoginTest()[pri:0, instance:loginTests.AppTest@4206a205]" name="invalidLoginTest" duration-ms="11" started-at="2021-10-13T09:50:23Z" description="Invalid Test" finished-at="2021-10-13T09:50:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invalidLoginTest -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:loginTests.AppTest@4206a205]" name="loginTest" duration-ms="0" started-at="2021-10-13T09:31:41Z" description="Valid Test" finished-at="2021-10-13T09:31:41Z">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:loginTests.AppTest@4206a205]" name="loginTest" duration-ms="1" started-at="2021-10-13T09:50:23Z" description="Valid Test" finished-at="2021-10-13T09:50:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
       </class> <!-- loginTests.AppTest -->
     </test> <!-- Test1 -->
-    <test name="Test2" duration-ms="1" started-at="2021-10-13T09:31:41Z" finished-at="2021-10-13T09:31:41Z">
+    <test name="Test2" duration-ms="2" started-at="2021-10-13T09:50:23Z" finished-at="2021-10-13T09:50:23Z">
       <class name="loginTests.NumberCompare">
-        <test-method status="PASS" signature="checkingComparision()[pri:0, instance:loginTests.NumberCompare@5ea434c8]" name="checkingComparision" duration-ms="1" started-at="2021-10-13T09:31:41Z" finished-at="2021-10-13T09:31:41Z">
+        <test-method status="PASS" signature="checkingComparision()[pri:0, instance:loginTests.NumberCompare@5ea434c8]" name="checkingComparision" duration-ms="0" started-at="2021-10-13T09:50:23Z" finished-at="2021-10-13T09:50:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkingComparision -->
       </class> <!-- loginTests.NumberCompare -->
     </test> <!-- Test2 -->
-    <test name="Test3" duration-ms="5617" started-at="2021-10-13T09:31:41Z" finished-at="2021-10-13T09:31:46Z">
+    <test name="Test3" duration-ms="5932" started-at="2021-10-13T09:50:23Z" finished-at="2021-10-13T09:50:29Z">
       <class name="loginTests.SeleniumDev">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:loginTests.SeleniumDev@1f1c7bf6]" name="beforeTest" is-config="true" duration-ms="1870" started-at="2021-10-13T09:31:41Z" finished-at="2021-10-13T09:31:43Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:loginTests.SeleniumDev@1f1c7bf6]" name="beforeTest" is-config="true" duration-ms="1957" started-at="2021-10-13T09:50:23Z" finished-at="2021-10-13T09:50:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="titleTest()[pri:0, instance:loginTests.SeleniumDev@1f1c7bf6]" name="titleTest" duration-ms="999" started-at="2021-10-13T09:31:43Z" finished-at="2021-10-13T09:31:44Z">
+        <test-method status="PASS" signature="titleTest()[pri:0, instance:loginTests.SeleniumDev@1f1c7bf6]" name="titleTest" duration-ms="1204" started-at="2021-10-13T09:50:25Z" finished-at="2021-10-13T09:50:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- titleTest -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:loginTests.SeleniumDev@1f1c7bf6]" name="afterTest" is-config="true" duration-ms="2747" started-at="2021-10-13T09:31:44Z" finished-at="2021-10-13T09:31:46Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:loginTests.SeleniumDev@1f1c7bf6]" name="afterTest" is-config="true" duration-ms="2769" started-at="2021-10-13T09:50:26Z" finished-at="2021-10-13T09:50:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
